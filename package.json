@@ -1,0 +1,7 @@
+{
+  "name": "lglow-api",
+  "private": true,
+  "scripts": {
+    "deploy": "firebase deploy --only functions"
+  }
+}
